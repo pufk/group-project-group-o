@@ -1,4 +1,4 @@
 # COMP257Project Readme file
 
-<p><br><br>To be continued</>
+<p><br><br>To be continued</p>
 
